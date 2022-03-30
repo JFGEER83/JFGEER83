@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm JF 
+### i'm a front-end web developer/ web designer
+#### Based in Brussels 
+
 <!--
 **JFGEER83/JFGEER83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
