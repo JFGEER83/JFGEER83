@@ -44,7 +44,6 @@
       Design-->Coffee;
       Coffee-->Code;
       Code-->Coffee;
-      Coffee-->GetOut;
 ```
 
 ### ⭐ GitHub Stats
