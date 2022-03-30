@@ -40,6 +40,7 @@
 
 ```mermaid
   graph TD;
+      Coffee-->Design;
       Design-->Coffee;
       Coffee-->Code;
       Code-->Coffee;
