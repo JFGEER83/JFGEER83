@@ -5,17 +5,12 @@
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://#gh-dark-mode-only)
+[![img_contact](./img/light-globe-.png)](https://#gh-light-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/dribble-light.svg)](https://#gh-light-mode-only)
-[![img_contact](./img/dribble-dark.svg)](https://#gh-dark-mode-only)
+[![img_contact](./img/dribbble-logo.png)](https://#gh-light-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
+[![img_contact](./img/linkedin.png)](https://www.linkedin.com/#gh-light-mode-only)
+
 
 ### Languages and Tools:
 
