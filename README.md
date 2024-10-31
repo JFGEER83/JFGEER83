@@ -6,8 +6,6 @@ Front-End WebDeveloper
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F736C9&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Code;%E2%98%95%EF%B8%8F++Coffee+;%F0%9F%94%81+Repeat)](https://git.io/typing-svg)
 
-Having a passion for graphic design and technology, I decided to become aWeb Developer, combining these two worlds brilliantly. My strength lies in the conceptualisation and materialisation of innovative ideas for websites, transforming them into dynamic and functional creations thanks to my advanced coding skills. I'm committed to an approach that combines aesthetics and performance, ensuring captivating and engaging digital solutions.
-
 * 🌍  I'm based in Brussels, Belgium
 * ✉️  You can contact me at [jfgeerinckx@me.com](mailto:jfgeerinckx@me.com)
 
